@@ -3,7 +3,7 @@
 namespace Siklusit\LaravelMakeControllerView;
 
 use Illuminate\Support\ServiceProvider;
-use siklusit\LaravelMakeControllerView\Console\MakeControllerAndView;
+use Siklusit\LaravelMakeControllerView\Console\MakeControllerAndView;
 
 class MakeControllerViewServiceProvider extends ServiceProvider
 {
