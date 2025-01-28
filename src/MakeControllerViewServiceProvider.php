@@ -1,6 +1,6 @@
 <?php
 
-namespace siklusit\LaravelMakeControllerView;
+namespace Siklusit\LaravelMakeControllerView;
 
 use Illuminate\Support\ServiceProvider;
 use siklusit\LaravelMakeControllerView\Console\MakeControllerAndView;
