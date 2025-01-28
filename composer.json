@@ -1,0 +1,21 @@
+{
+    "name": "siklusit/LaravelMakeControllerView",
+    "description": "A Laravel package to create controllers, views, models, migrations, and requests easily.",
+    "type": "library",
+    "require": {
+        "php": "^7.3|^8.0",
+        "illuminate/console": "^8.0|^9.0|^10.0|^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "siklusit\\LaravelMakeControllerView\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "siklusit\\LaravelMakeControllerView\\MakeControllerViewServiceProvider"
+            ]
+        }
+    }
+}

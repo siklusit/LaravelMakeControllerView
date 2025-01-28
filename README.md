@@ -1,0 +1,1 @@
+"# LaravelMakeControllerView" 
