@@ -1,6 +1,6 @@
 <?php
 
-namespace siklusit\LaravelMakeControllerView\Console;
+namespace Siklusit\LaravelMakeControllerView\Console;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\File;
