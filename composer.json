@@ -17,5 +17,10 @@
                 "Siklusit\\LaravelMakeControllerView\\MakeControllerViewServiceProvider"
             ]
         }
+    }	
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "siklusit/laravel-make-controller-view": "^1.0"
     }
 }
